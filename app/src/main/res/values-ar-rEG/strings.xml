@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ألواح ودُسُر</string>
+    <string name="desc">" نصنّع يدوياً ألعاب خشبية للأطفال بجودة عالية وخامات آمنة.\n بنختار خامات اللعبة بعناية من أخشاب طبيعية مُعمِّرة ، وبنهتم بجعل سطحها ناعم وحوافها غير حادة وطلائها بمواد آمنة.\n تصميماتنا معتمدة على البساطة في المكونات والخصائص عشان نسيب مساحة لخيال الطفل يبدع ويتفاعل مع اللعبة بطرق متنوعة بدون التشتيت الصادر من الأصوات والأضواء ، وبنعوّض ده بأجزاء بسيطة متحركة، أو قطع للفك والتركيب عشان نوفر تجربة مكتملة تنشط حواس وتفكير الطفل ، بالإضافة لاستمتاعه باللعب."</string>
+    <string name="work_hour">مواعيد العمل : من الساعة 8 صباحا وحتي الساعة 8 مساءاً</string>
+    <string name="contact_us">تواصل معنا : </string>
+    <string name="my_link">
+        <a href=" /https://www.facebook.com/pg/AlwahWDusur">
+             https://www.facebook.com/pg/AlwahWDusur/
+        </a>
+    </string>
+    <string name="join_us">اشترك معنا</string>
+    <string name="learn_more"> تعرف علينا >></string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_by_gmail">تسجيل الدخول باستخدام GMAIL</string>
+    <string name="category_fragment">الكتالوج</string>
+    <string name="prod_iphone">اي فون 7 اس</string>
+    <string name="pro_desc">اي فون 7 اس 128- جيجا رام - شاشة 6.9 بيكسل</string>
+    <string name="best_offer">افضل العروض</string>
+    <string name="all_offer">كل العروض</string>
+    <string name="title_activity_details">تفاصيل العروض</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الاعدادات</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_tools">الاداوات</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">ارسال</string>
+    <string name="menu_slideshow">العرض التقديمي</string>
+
+</resources>

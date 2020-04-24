@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "502693837133",
+    "firebase_url": "https://alwah-w-dusur.firebaseio.com",
+    "project_id": "alwah-w-dusur",
+    "storage_bucket": "alwah-w-dusur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502693837133:android:b0a60c5723206466279f04",
+        "android_client_info": {
+          "package_name": "com.aymanx.ai.alwahwdusur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502693837133-v8qmas9979jaar7qhbrbptrjljg93b49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aymanx.ai.alwahwdusur",
+            "certificate_hash": "69baff2918d15a93b7dad64504266f1e0f302eca"
+          }
+        },
+        {
+          "client_id": "502693837133-lvie42o7nmke3vnsipe7icut52skjo4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aymanx.ai.alwahwdusur",
+            "certificate_hash": "4c9e777014da0f09c483b9ac2d19352b55ce61e1"
+          }
+        },
+        {
+          "client_id": "502693837133-61l68017q80u95191ckj2n9cs5ea92an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeFIURT3aW9tYmTmT5zNyf9J4Gm_hHdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502693837133-61l68017q80u95191ckj2n9cs5ea92an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

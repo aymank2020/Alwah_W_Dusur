@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Alwah W Dusur</string>
+    <string name="desc">We manufacture handcrafted wooden toys for children, with high quality and safe materials. \n We choose the materials of the game carefully, from the long-lasting natural wood, and take care to make its surface smooth, edges not sharp, and painted with safe materials. \n Our designs are based on the simplicity of the components and characteristics so that the space of the imagination of the child creates and interacts with the game in a variety of ways, without distraction from sounds and lights, and compensate for this with simple moving parts, or pieces to disassemble and install.</string>
+    <string name="work_hour">Working Hour : From 8 AM To 8 PM</string>
+    <string name="contact_us">Contact Us : </string>
+    <string name="my_link">
+        <a href=" /https://www.facebook.com/pg/AlwahWDusur">
+             https://www.facebook.com/pg/AlwahWDusur/
+        </a>
+    </string>
+    <string name="join_us">Join Us</string>
+    <string name="learn_more">learn more >></string>
+    <string name="login">Login</string>
+    <string name="login_by_gmail">Login By GMAIL</string>
+    <string name="category_fragment">Category</string>
+    <string name="best_offer">Best Offers</string>
+    <string name="all_offer">All Offers</string>
+    <string name="prod_iphone">Iphone 7S</string>
+    <string name="pro_desc">Iphone 7S-128GB RAM-6.9P</string>
+    <string name="title_activity_details">Offers Details</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="content">content</string>
+</resources>

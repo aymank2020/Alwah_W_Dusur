@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.ContactUsActivity"  >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:background="@color/background_home"
+        android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/img_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.1"  >
+
+        <ImageView
+            android:id="@+id/alwah_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/alwah"
+            android:contentDescription="@string/content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/textview_padding"
+        android:layout_weight="2"
+        android:orientation="vertical"  >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/title"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:padding="@dimen/medium_textview_padding"
+            android:text="@string/app_name"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/large_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/medium_textview_padding"
+            android:text="@string/desc"
+            android:textSize="@dimen/medium_text_size"  />
+
+        <TextView
+            android:id="@+id/work_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/mini_small_textview_padding"
+            android:padding="@dimen/small_textview_padding"
+            android:text="@string/work_hour"
+            android:textSize="@dimen/medium_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/contact_us"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/mini_small_textview_padding"
+            android:padding="@dimen/small_textview_padding"
+            android:text="@string/contact_us"
+            android:textSize="@dimen/medium_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/my_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/textview_padding"
+            android:layout_marginLeft="@dimen/textview_padding"
+            android:autoLink="web"
+            android:drawableStart="@drawable/ic_public"
+            android:drawableLeft="@drawable/ic_public"
+            android:drawablePadding="@dimen/small_textview_padding"
+            android:padding="@dimen/small_textview_padding"
+            android:text="@string/my_link"
+            android:textSize="@dimen/small_text_size" />
+
+    </LinearLayout>
+ </LinearLayout>
+
+</ScrollView>
