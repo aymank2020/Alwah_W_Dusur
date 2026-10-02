@@ -82,7 +82,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.myView
     }
 
     public void setList(ArrayList<Category> mCategoryList){
-        this.mCategory = mCategoryList;
+        this.mCategory = mCategoryList == null ? new ArrayList<Category>() : mCategoryList;
         notifyDataSetChanged();
     }
 }
